@@ -2,7 +2,6 @@
 
 - 🔭 Hoje eu trabalho com: BackEnd, Analise de Dados e CyberSecurity
 - 🌱 Estudando: JavaScript, HTML, CSS.
-- 😄 Pronouns: Ele/Dele
 - 📫 Contato: ...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PCzim&show_icons=true&theme=transparent) 
