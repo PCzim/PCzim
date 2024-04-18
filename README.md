@@ -1,7 +1,7 @@
 ### Olá eu sou o João Pedro 👋
 
-- 🔭 Hoje eu trabalho com: BackEnd, Analise de Dados e CyberSecurity
-- 🌱 Estudando: JavaScript, HTML, CSS.
+- 🔭 Hoje eu trabalho com: Analise de Dados e CyberSecurity
+- 🌱 Estudando: OSINT
 - 📫 Contato: ...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PCzim&show_icons=true&theme=transparent) 
